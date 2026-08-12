@@ -30,4 +30,3 @@ def about_me(request):
             "collaborate_form": collaborate_form,
          },
     )
-     
